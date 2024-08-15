@@ -3,9 +3,9 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;FINISHER V2 BUG;WHATSAPP+BUG+BOT;CREATED+BY+HOLY+RAGE;RELEASED+10-08-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;FINISHER V2 BUG;WHATSAPP+BUG+BOT;CREATED+BY+HOLY+RAGE;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
-    <img alt="FINISHER-V2" width="830" height="950" src="https://telegra.ph/file/648601785ffc1800e98e4.jpg">
+    <img alt="FINISHER-V2" width="950" height="950" src="https://telegra.ph/file/648601785ffc1800e98e4.jpg">
 <p align="center">
 <p align="center">
 <a href="https://github.com/holyrag/Finisher-v2"><img title="Author" src="https://img.shields.io/badge/Finisher-v2?style=for-the-badge&logo=github"></a>
@@ -26,6 +26,40 @@ Yh i know my Readme Sucks and all Manage it 😶
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/@pk123yy6/Finisher-v2-Bug' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+
+</br>
+
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [FINISHER-V2](https://github.com/Holyrag/Finisher-v2) ON ANY TERMINAL
+```
+sudo apt -y update && sudo apt -y upgrade
+```
+```
+sudo apt -y install git ffmpeg curl
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setup.sh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo npm install -g yarn
+```
+```
+sudo yarn global add pm2
+```
+```
+git clone https://github.com/type-your-username-here/Finisher-v2
+```
+```
+cd Finisher-v2
+yarn install 
+npm start
+```
 
 
 ### DEPLOYMENT ON TERMUX
@@ -101,9 +135,7 @@ It will come online
 
 Contributions to Finisher V2 are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-   thanks to these people ;
-
-   **Xeon** who made the base bot <br>
+  
 
 
 ## License
