@@ -811,7 +811,7 @@ await deltaxcrash.relayMessage(target, etc.message, { participant: { jid: target
 }
 
 //Status
-if (!deltaxcrash.private) {
+if (!deltaxcrash.public) {
 if (!m.key.fromMe) return
 } 
 
